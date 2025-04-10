@@ -20,7 +20,7 @@ This AI-powered system helps users recover hacked personal accounts and delete c
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/biometric-account-recovery.git
+   git clone https://github.com/PSivaMallikarjun/biometric-account-recovery.git
    cd biometric-account-recovery
    ```
 2. Install dependencies:
